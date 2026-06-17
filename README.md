@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Banner">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi +I'm+Abinav+N;Cybersecurity+Enthusiast;AI%2FML+Developer;Full+Stack+Web+Developer;Building+Secure+%26+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Abinav+N;Cybersecurity+•+Artificial+Intelligence+•+Full+Stack+Development;B.Tech+CSE+(IoT)+|+Honours+in+Cybersecurity" />
 
 <h1 align="center">Abinav N</h1>
 
