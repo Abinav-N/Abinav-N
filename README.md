@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Banner">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Abinav+N;Cybersecurity+Enthusiast;AI%2FML+Developer;Full+Stack+Web+Developer;Building+Secure+%26+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi +I'm+Abinav+N;Cybersecurity+Enthusiast;AI%2FML+Developer;Full+Stack+Web+Developer;Building+Secure+%26+Intelligent+Solutions" />
 
 <h1 align="center">Abinav N</h1>
 
@@ -92,19 +92,6 @@ I enjoy building intelligent applications, exploring security concepts, and solv
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinav-N&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🏆 Featured Projects
-
-### 🚧 Road Damage Detection
-Machine Learning based system for detecting road damages through uploaded images with GPS tagging and analysis.
-
-### ☀️ Solar Panel Surface Monitoring
-AI-powered monitoring solution for identifying surface defects and improving maintenance efficiency.
-
-### 🔐 Digital Forensics Notes
-Curated notes and learning resources covering digital forensics concepts and malware analysis.
 
 ---
 
