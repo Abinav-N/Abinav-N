@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/banner.svg" alt="Banner">
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Abinav+N;Cybersecurity+Enthusiast;AI%2FML+Developer;Full+Stack+Web+Developer;Building+Secure+%26+Intelligent+Solutions" />
@@ -18,7 +18,7 @@ I enjoy building intelligent applications, exploring security concepts, and solv
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 3rd Year B.Tech Computer Science (IoT)
 
