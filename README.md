@@ -20,7 +20,7 @@ I enjoy building intelligent applications, exploring security concepts, and solv
 
 ##  About Me
 
-🎓 3rd Year B.Tech Computer Science (IoT)
+🎓 B.Tech Computer Science (IoT)
 
 🔐 Honours in Cybersecurity
 
